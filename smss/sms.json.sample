@@ -1,0 +1,10 @@
+{
+    "tg_apitoken": "<Telegram BotAPI token>",
+    "working_hours": [8, 22],
+    "chats": {
+        "<chat_name>": <chat_id>
+    },
+    "nats_server": "nats://<NATS server>:4222",
+    "nats_queue": "<queue name>",
+    "nats_project": "<project name>"
+}
